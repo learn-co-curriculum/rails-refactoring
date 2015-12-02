@@ -32,3 +32,5 @@ In our GithubConnection class, we have three methods that are basically doing th
 ## Resources
 
 * [RailConf 2014: All the Small Things by Sandi Metz](https://www.youtube.com/watch?v=8bZh5LMaSmE)
+
+<a href='https://learn.co/lessons/rails-refactoring' data-visibility='hidden'>View this lesson on Learn.co</a>
